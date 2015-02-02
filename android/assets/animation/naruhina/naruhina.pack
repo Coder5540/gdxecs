@@ -1,0 +1,33 @@
+
+naruhina.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left
+  rotate: false
+  xy: 1, 266
+  size: 491, 129
+  orig: 491, 129
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 1, 135
+  size: 491, 129
+  orig: 491, 129
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 494, 263
+  size: 420, 132
+  orig: 420, 132
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 1, 1
+  size: 420, 132
+  orig: 420, 132
+  offset: 0, 0
+  index: -1
